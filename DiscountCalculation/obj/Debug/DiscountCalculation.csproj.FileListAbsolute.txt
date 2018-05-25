@@ -1,0 +1,7 @@
+I:\Git\DiscountCalculation\DiscountCalculation\bin\Debug\DiscountCalculation.exe.config
+I:\Git\DiscountCalculation\DiscountCalculation\bin\Debug\DiscountCalculation.exe
+I:\Git\DiscountCalculation\DiscountCalculation\bin\Debug\DiscountCalculation.pdb
+I:\Git\DiscountCalculation\DiscountCalculation\obj\Debug\DiscountCalculation.csprojResolveAssemblyReference.cache
+I:\Git\DiscountCalculation\DiscountCalculation\obj\Debug\DiscountCalculation.csproj.CoreCompileInputs.cache
+I:\Git\DiscountCalculation\DiscountCalculation\obj\Debug\DiscountCalculation.exe
+I:\Git\DiscountCalculation\DiscountCalculation\obj\Debug\DiscountCalculation.pdb
